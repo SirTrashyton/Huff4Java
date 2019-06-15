@@ -1,7 +1,7 @@
 # HuffmanJava
 Huffman encoding and decoding in Java
 
-#How to Run
+# How to Run
 Click 'Huff4Java.jar' and open.
 
 # What is Huffman?
