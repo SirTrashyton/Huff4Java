@@ -10,7 +10,7 @@ It works by placing data from a file into a BST, where the most used characters 
 Structure of '.huff' files are in the following order:
 Number of bytes, Tree data, Traversal Data
 
-#What I Learned
+# What I Learned
 Basic data structures and file reading
 Binary search trees, leaf/node and recursive operations
 Cross-platform UI development using JavaFX
