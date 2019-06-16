@@ -11,7 +11,7 @@ Structure of '.huff' files are in the following order:
 Number of bytes, Tree data, Traversal Data
 
 # What I Learned
-Basic data structures and file reading
-Binary search trees, leaf/node and recursive operations
-Cross-platform UI development using JavaFX
+Basic data structures and file reading.
+Binary search trees, leaf/node and recursive operations.
+Cross-platform UI development using JavaFX.
 
