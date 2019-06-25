@@ -1,5 +1,5 @@
 # Huff4Java
-Huffman encoding and decoding in Java.
+Simple Huffman encoding and decoding in Java.
 
 # How to Run
 Click 'Huff4Java.jar' and open.
@@ -15,4 +15,7 @@ Number of bytes, Tree data, Traversal Data
 Basic data structures and file reading.
 Binary search trees, leaf/node and recursive operations.
 Cross-platform UI development using JavaFX and SceneBuilder.
+
+# Screenshots
+![alt text](https://i.gyazo.com/bf84271cafec0538fd9697e0723b71bc.png)
 
